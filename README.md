@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3. Download dataset.
 
-Download the dataset here: https://drive.google.com/file/d/1YIk8mD7BMKqLr7EuZu6BZ1z16HUNpYZF/view?usp=sharing and unzip in the Env folder.
+Download the dataset [here](https://drive.google.com/file/d/1YIk8mD7BMKqLr7EuZu6BZ1z16HUNpYZF/view?usp=sharing) and unzip in the Env folder.
 
 
 
