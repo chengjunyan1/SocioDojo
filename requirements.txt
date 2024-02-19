@@ -1,0 +1,15 @@
+torch
+numpy
+scipy
+openai
+langchain
+chromadb
+serpapi
+fredapi
+beautifulsoup4
+pandas
+yfinance
+pytrends
+selenium
+secedgar
+wikitextparser
